@@ -14,5 +14,13 @@ a small nodejs script to recieve , mix , encode and return MP3 and AAC files
   9-Hit send.
   10- ENJOY !!!
   
+  # Dependencies
+    
+    cli-spinner
+    express
+    express-fileupload
+    ffmpeg
+    uuid
+  
 ![whoops](http://i64.tinypic.com/28bfb06.png)
 ![whoops](http://i64.tinypic.com/25h3fop.png)
